@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purpl">#4D505E</color>
+    <color name="jf">#FFB900</color>
+    <color name="фон1">#2A2E43</color>
+    <color name="teal_200">#4D505E</color>
+    <color name="Кнопка">#3F425C</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="text">#AAAAA9</color>
+
+</resources>
